@@ -3,3 +3,7 @@ body{
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.hidden{
+    display: inline;
+}
